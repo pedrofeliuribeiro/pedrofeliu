@@ -1,3 +1,4 @@
+![](images/bio-photo.jpg)
 ---
 layout: default
 title: Pedro Feliú Ribeiro
