@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pedro Feliú
+title: Pedro Feliú Ribeiro
 ---
 <div class="blurb">
 	<h1>Prof. Pedro Feliu Ribeiro</h1>
