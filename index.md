@@ -1,30 +1,9 @@
-University of São Paulo
-<html>
-	<head>
-		<title>Pedro Feliu Ribeiro</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/Publications">Publications</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Professor of International Relations at University of São Paulo, Brazil</h1>
-				<p>I hold a PhD in Political Science and may main research agenda regards foerign policy analysis, legislative studies and political parties <a href="/about">Read more about my reserch and teaching interests</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:pedrofeliu@usp.br">email</a></li>
-        		<li><a href="https://pedrofeliuribeiro.github.io/pedrofeliu/">github.com/pedrofeliu</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+---
+layout: default
+title: Pedro Feliú
+---
+<div class="blurb">
+	<h1>Prof. Pedro Feliu Ribeiro</h1>
+	<p>I am an Associated Professor at the International Relations Institute of the University of São Paulo, Brazil. I received my PhD joint-degree from the University of São Paulo. I research issues related to Foreign Policy Analysis and Legislative Studies  with a focus on Latin American countries.
+</a></p>
+</div><!-- /.blurb -->
