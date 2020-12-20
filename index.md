@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<title>Pedro Feliu Ribeiro</title>
@@ -21,7 +21,7 @@
 		<footer>
     		<ul>
         		<li><a href="mailto:pedrofeliu@usp.br">email</a></li>
-        		<li><a href="https://pedrofeliuribeiro.github.io/pedrofeliu/">github.com/pedrofeliuribeiro</a></li>
+        		<li><a href="https://pedrofeliuribeiro.github.io/pedrofeliu/">github.com/pedrofeliu</a></li>
 			</ul>
 		</footer>
 	</body>
