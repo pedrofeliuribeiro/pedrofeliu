@@ -1,7 +1,9 @@
-<!DOCTYPE html>
+University of São Paulo
 <html>
 	<head>
 		<title>Pedro Feliu Ribeiro</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<nav>
